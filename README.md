@@ -16,4 +16,5 @@ Smacaud offers security related services to Web3 projects with the goal of creat
 | Dopex              | Code4rena        | [1](https://github.com/code-423n4/2023-08-dopex-findings/issues/1844) |
 | DODO Cross-Chain DEX | Sherlock         | [1](https://github.com/sherlock-audit/2025-05-dodo-cross-chain-dex-judging/issues/766) |
 | LEND               | Sherlock         | [1](https://github.com/sherlock-audit/2025-05-lend-audit-contest-judging/issues/942) |
+| Mellow Flexible Vaults | Sherlock         | [1](https://github.com/sherlock-audit/2025-07-mellow-flexible-vaults-judging/issues/65) |
                                       
