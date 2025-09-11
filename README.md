@@ -7,7 +7,7 @@ Smacaud offers security related services to Web3 projects with the goal of creat
 
 # Public Competition
 
-| Competition Name   | Platform         | Vulnerabilities Found                                      |
+| Competition Name   | Platform         | Vulnerabilities H/M                                        |
 |--------------------|------------------|-----------------------------------------------------------|
 | RAAC               | CodeHawks        | [1](https://codehawks.cyfrin.io/c/2025-02-raac/s/6227), [2](https://codehawks.cyfrin.io/c/2025-02-raac/s/6116), [3](https://codehawks.cyfrin.io/c/2025-02-raac/s/6664) |
 | Mellow Flexible Vaults | Sherlock         | [1](https://github.com/sherlock-audit/2025-07-mellow-flexible-vaults-judging/issues/65) |
